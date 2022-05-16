@@ -73,6 +73,7 @@ body {
 	height: 100%;
 	width: 400%;
 	overflow: hidden;
+	box-shadow: 0 0 0.5rem 0.3rem rgba(0, 0, 0, 0.47);
 }
 
 .slider__slide {
